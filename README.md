@@ -17,7 +17,7 @@ The dataset includes the following columns:
 - `Area Population`  
 - `Price` (target variable)
 
-Dataset source: Kaggle (or any similar CSV dataset).
+Dataset source: Kaggle 
 
 ##  Tech Stack
 - Python  
